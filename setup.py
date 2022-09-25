@@ -23,7 +23,7 @@ setup(
             'view_image_raw = team99_object_follower.view_image_raw:main',
             'detect_ball = team99_object_follower.detect_ball:main',
             'rotate_turtle = team99_object_follower.rotate_turtle:main',
-            'test_rotate_turtle = team99_object_follwer.test_rotate_turtle:main',
+            'test_detect_ball = team99_object_follower.test_detect_ball:main',
         ],
     },
 )
